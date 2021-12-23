@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.Android", "App1\App1.Android\App1.Android.csproj", "{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App1", "App1\App1\App1.csproj", "{747AE41E-4A45-48FE-AD20-3BB110BB0687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.BindingLibrary", "App1.BindingLibrary\App1.BindingLibrary.csproj", "{D43F8D8C-9FBF-4AE4-B82C-37B6E3F08723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27FAE98-175A-4D39-AB68-FAFFA66CC6AF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{747AE41E-4A45-48FE-AD20-3BB110BB0687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747AE41E-4A45-48FE-AD20-3BB110BB0687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747AE41E-4A45-48FE-AD20-3BB110BB0687}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{747AE41E-4A45-48FE-AD20-3BB110BB0687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747AE41E-4A45-48FE-AD20-3BB110BB0687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747AE41E-4A45-48FE-AD20-3BB110BB0687}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D43F8D8C-9FBF-4AE4-B82C-37B6E3F08723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43F8D8C-9FBF-4AE4-B82C-37B6E3F08723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43F8D8C-9FBF-4AE4-B82C-37B6E3F08723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43F8D8C-9FBF-4AE4-B82C-37B6E3F08723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AD2FA5-177D-4D95-9120-54233102B696}
+	EndGlobalSection
+EndGlobal
